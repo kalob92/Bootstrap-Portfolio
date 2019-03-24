@@ -38,3 +38,12 @@ footer {
 .nav-item {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+.headrow {
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+
+textarea {
+    resize: none;
+}
